@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-19T13:32:53 EEST" name="Use tests automation" finished-at="2023-06-19T13:33:12 EEST" duration-ms="19520">
+    <groups>
+    </groups>
+    <test started-at="2023-06-19T13:32:53 EEST" name="Smoke testing" finished-at="2023-06-19T13:33:12 EEST" duration-ms="19520">
+      <class name="tests.ActionsWithUserTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ActionsWithUserTest@273842a6]" started-at="2023-06-19T13:33:06 EEST" name="setUp" finished-at="2023-06-19T13:33:07 EEST" duration-ms="1511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddEditUser()[pri:0, instance:tests.ActionsWithUserTest@273842a6]" started-at="2023-06-19T13:33:07 EEST" name="testAddEditUser" finished-at="2023-06-19T13:33:11 EEST" duration-ms="3849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddEditUser -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:tests.ActionsWithUserTest@273842a6]" started-at="2023-06-19T13:33:11 EEST" name="cleanUp" finished-at="2023-06-19T13:33:12 EEST" duration-ms="849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- tests.ActionsWithUserTest -->
+      <class name="tests.ButtonClickTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ButtonClickTest@5486887b]" started-at="2023-06-19T13:32:53 EEST" name="setUp" finished-at="2023-06-19T13:33:01 EEST" duration-ms="8256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testClickMe()[pri:0, instance:tests.ButtonClickTest@5486887b]" started-at="2023-06-19T13:33:01 EEST" name="testClickMe" finished-at="2023-06-19T13:33:05 EEST" duration-ms="4030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickMe -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:tests.ButtonClickTest@5486887b]" started-at="2023-06-19T13:33:05 EEST" name="cleanUp" finished-at="2023-06-19T13:33:06 EEST" duration-ms="522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- tests.ButtonClickTest -->
+    </test> <!-- Smoke testing -->
+  </suite> <!-- Use tests automation -->
+</testng-results>

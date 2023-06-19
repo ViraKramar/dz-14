@@ -1,0 +1,6 @@
+pageobjects\ButtonsPage.class
+pageobjects\WebTablePage.class
+pageobjects\AbstractPageObject.class
+tests\BaseTest.class
+tests\ButtonClickTest.class
+tests\ActionsWithUserTest.class
