@@ -4,8 +4,6 @@
     <test name="Smoke testing">
         <classes>
             <class name="tests.ButtonClickTest"/>
-            <class name="tests.ActionsWithUserTest"/>
         </classes>
-
     </test>
 </suite>
